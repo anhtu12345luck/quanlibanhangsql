@@ -1,0 +1,12 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Quanlybanhang\bin\Debug\Quanlybanhang.exe.config
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe.config
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.pdb
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.xml
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.frmKhachHang.resources
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Resources.resources
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.vbproj.GenerateResource.Cache
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.exe
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.xml
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
+E:\Tú FPT Polytechnic\Điện Toán Đám Mây\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.frmThemKH.resources
